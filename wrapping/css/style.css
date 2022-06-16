@@ -1,0 +1,66 @@
+.fondo{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-color: #ffca28;
+    justify-content:space-around;
+}
+
+.cuadroizquierdo{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.cuadroderecho{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.cuadro1{
+    width: 100%;
+    height: 28%;
+    background: aquamarine;
+    
+    
+    
+}
+.cuadro2{
+    width: 100%;
+    height: 28%;
+    background: aqua;
+
+}
+.cuadro3{
+    width: 100%;
+    height: 34%;
+    background: mediumslateblue;
+}
+.cuadro4{
+    width: 100%;
+    height: 10%;
+    background: gray;
+}
+.cuadro5{
+    width: 100%;
+    height: 50%;
+    background: #ffca28;    
+}
+.cuadro6{
+    width: 100%;
+    height: 50%;
+    background: #ff5722;
+    text-align: center;
+    
+}
+
+h3{
+    text-align: center;
+    color: #fff;
+    font-size: 40px;
+    
+}
