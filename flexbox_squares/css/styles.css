@@ -1,0 +1,228 @@
+.fondo{
+    width: 100wh;
+    height: 100vh;
+    display: flex;
+    background: #fff;
+    border: solid 1px;
+    align-items: center;
+    justify-content:space-around;
+}
+
+.cuadroderecho  {
+    border: solid 2px;
+    display: flex;
+    width: 25%;
+    height: 40%;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+  
+}
+
+.cuadroizquierdo {
+    border: solid 2px;
+    display: flex;
+    width: 25%;
+    height: 40%;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+
+.cuadro1 {
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+}
+    
+
+
+.cuadro2 {
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    
+
+}
+.cuadro3 {
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.cuadro4 {
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    
+
+}
+.cuadro5 {
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    
+
+}
+.cuadro6 {
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    
+
+}
+.chico1{
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+
+}
+.chico2{
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+    
+}
+.chico3{
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+    
+}
+.chico4{
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+    
+}
+.chico5{
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+    
+}
+.chico6{
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+    
+}
+.chico7{
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+    
+}
+.chico8{
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+    
+}
+.chico9{
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+    
+}
+
+.chico10{
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+    
+}
+.chico11{
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+    
+}
+.chico12{
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+    
+}
+.chico13{
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+    
+}
+.chico14{
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+    
+}
+.chico15{
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+    
+}
+.chico16{
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+    
+}
+.chico17{
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+    
+}
+.chico18{
+    display: flex;
+    border: solid 1px;
+    width: 25%;
+    height: 25%;
+    
+}
+
