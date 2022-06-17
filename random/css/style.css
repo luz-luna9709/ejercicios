@@ -1,0 +1,19 @@
+
+.area{
+   width: 99.5vw;
+   height: 98.5vh;
+   background:#fff;
+   margin: 0%;
+   border: solid 20px yellow;
+   grid-template-columns: auto;
+}
+
+
+div{
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  font-size: 500px;
+  color: #fff;
+  
+}
+
