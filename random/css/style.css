@@ -1,11 +1,11 @@
 
 .area{
-   width: 99.5vw;
-   height: 98.5vh;
+   width: 99vw;
+   height: 95vh;
    background:#fff;
    margin: 0%;
-   border: solid 20px yellow;
-   grid-template-columns: auto;
+   border: solid 20px yellow; 
+   
 }
 
 
@@ -15,5 +15,52 @@ div{
   font-size: 500px;
   color: #fff;
   
+  
 }
+.grid-container {
+  display: grid;
+  grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+  
+}
+
+.item1 {
+  background: red;
+}
+.item2 {
+  background: blue;
+
+}
+.item3 {
+  
+  background: rebeccapurple;
+}
+.item4 {
+  
+  background: gold;
+}
+.item5 {
+  
+  background: firebrick;
+}
+.item6 {
+  
+  background: forestgreen;
+}
+.item7 {
+  
+  background: hotpink;
+}
+.item8 {
+  
+  background: lightblue;
+}
+.item9 {
+  
+  background: aqua;
+}
+.item10 {
+  
+  background: darkturquoise;
+}
+
 
