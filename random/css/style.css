@@ -1,11 +1,11 @@
 
 .area{
    width: 99vw;
-   height: 95vh;
+   height: 99vh;
    background:#fff;
    margin: 0%;
-   border: solid 20px yellow; 
-   
+   padding: 0%;
+   border: solid 20px yellow;
 }
 
 
@@ -14,53 +14,68 @@ div{
   text-align: center;
   font-size: 500px;
   color: #fff;
+  grid-area: auto;
   
   
 }
 .grid-container {
+  width: 100%;
+  height: 98.5vh;
   display: grid;
   grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+  grid-template-rows: 14.28% 14.28% 14.28% 14.28% 14.28% 14.28% 14.28%; 
   
 }
 
 .item1 {
   background: red;
+  grid-row: 1 / 1;
 }
 .item2 {
   background: blue;
+  grid-row: 1 / 8;
 
 }
 .item3 {
-  
   background: rebeccapurple;
+  grid-row: 1 / 1;
 }
 .item4 {
-  
   background: gold;
+  grid-row: 1 / 1;
 }
 .item5 {
-  
   background: firebrick;
+  grid-row: 1 / 1;
 }
 .item6 {
-  
   background: forestgreen;
+  grid-row: 4 / 4;
+  grid-column: 6 / 7;
 }
 .item7 {
   
   background: hotpink;
+  grid-row: 1 / 1;
+  grid-column: 7 / 8;
 }
 .item8 {
   
   background: lightblue;
+  grid-row: 1 / 1;
+  grid-column: 8 / 9;
 }
 .item9 {
   
   background: aqua;
+  grid-row: 7 / 7;
+  grid-column: 9 / 10;
 }
 .item10 {
   
   background: darkturquoise;
+  grid-row: 1 / 1;
+  grid-column: 10 / 11; 
 }
 
 
