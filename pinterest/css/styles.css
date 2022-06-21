@@ -1,0 +1,30 @@
+
+
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background: #fff;
+    min-height: 100%;
+    overflow-y: scroll;
+    position: relative;
+
+}
+
+header{
+    width: 100vw;
+    height: 5vh;
+    display: flex;
+    justify-content: space-around;  
+    background: gray;  
+}
+
+.inicio{
+  
+}
+
+.buscar{
+ background-color: transparent;
+ border: none; 
+ color: rgb(51, 51, 51);
+ } 
