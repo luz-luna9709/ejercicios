@@ -1,4 +1,7 @@
 
+html{
+    scroll-behavior: smooth;
+}
 * {
     box-sizing: border-box;
     padding: 0;
@@ -19,7 +22,7 @@ header{
     justify-content: space-between;
     /* background: gray;  */
     align-items: center;
-   position:absolute;
+    position:fixed;
     background-color: whitesmoke;
     
     
@@ -176,6 +179,7 @@ img{
   /*   border: 3px solid blue; */
     gap: 0.5rem;
     align-items: flex-start;
+    
 
   }
   /* .main {
